@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">UniQuest</string>
+    <string name="tagline">Turn assignments into quests</string>
+
+    <!-- Onboarding Strings -->
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="get_started">Get Started</string>
+
+    <!-- Onboarding Screen 1 -->
+    <string name="onboarding_1_title">Organize your\ndeadlines</string>
+    <string name="onboarding_1_subtitle">Turn your assignments and exams into exciting quests. Never miss a deadline again with our smart organization system.</string>
+    <string name="onboarding_1_illustration_desc">Calendar organization illustration</string>
+
+    <!-- Onboarding Screen 2 -->
+    <string name="onboarding_2_title">Earn XP for every\nsubmission</string>
+    <string name="onboarding_2_subtitle">Complete assignments to gain experience points and level up your academic profile. Make studying as engaging as gaming!</string>
+    <string name="onboarding_2_xp_text">+50 XP</string>
+    <string name="onboarding_2_illustration_desc">XP Star icon</string>
+
+    <!-- Onboarding Screen 3 -->
+    <string name="onboarding_3_title">Track your\nacademic streaks</string>
+    <string name="onboarding_3_subtitle">Build consistent study habits and maintain your momentum. Watch your productivity streaks grow day by day!</string>
+    <string name="onboarding_3_streak_text">7 day streak!</string>
+    <string name="onboarding_3_encouragement">Keep it up!</string>
+    <string name="onboarding_3_illustration_desc">Fire streak icon</string>
+
+    <!-- Common UI Strings -->
+    <string name="add_quest">Add Quest</string>
+    <string name="profile">Profile</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="goals">Goals</string>
+    <string name="daily_tips">Daily Tips</string>
+
+    <!-- Quest Related -->
+    <string name="quest_title">Quest Title</string>
+    <string name="due_date">Due Date</string>
+    <string name="priority">Priority</string>
+    <string name="subject">Subject</string>
+    <string name="xp_reward">XP Reward</string>
+    <string name="complete_quest">Complete Quest</string>
+
+    <!-- Profile Related -->
+    <string name="level">Level</string>
+    <string name="xp">XP</string>
+    <string name="streak">Streak</string>
+    <string name="badges">Badges</string>
+    <string name="edit_profile">Edit Profile</string>
+
+    <!-- Login/Register -->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="university_account">Login with University Account</string>
+    <string name="new_student">New Student? Register here</string>
+</resources>
